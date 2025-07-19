@@ -1,10 +1,5 @@
-package main
+# aluset-chat-backend
 
-import (
-    "github.com/sashabaranov/go-openai"
-    // importo edhe libraritë tjera që të nevojiten
-)
+Backend për chatbot me OpenAI GPT për kompaninë ALUSET.
 
-func main() {
-    // kodi yt starton këtu
-}
+Ky projekt përdor librarinë [github.com/sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) për të komunikuar me OpenAI GPT.
